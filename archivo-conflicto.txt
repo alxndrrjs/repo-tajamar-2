@@ -1,1 +1,4 @@
 Archivo a editar para conflicto - archivo editado por branch-a
+
+Archivo a editar para conflicto - Archivo editado branch-b
+
